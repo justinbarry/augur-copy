@@ -1,4 +1,4 @@
-FROM node:8-stretch@sha256:aee6cb54d0592b4d0557787052dd0d3b51244dfd37627d227460adc561e3e533
+FROM node:8-stretch@sha256:9fdff0c00eeb8e2f4a3829e5ca2d5e67dbb89f127c202d9988576df2e2735507
 
 ENV PATH /root/.yarn/bin:$PATH
 ARG ethereum_network=rinkeby
