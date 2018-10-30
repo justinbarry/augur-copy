@@ -5046,9 +5046,9 @@ hide-powered-by@1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/hide-powered-by/-/hide-powered-by-1.0.0.tgz#4a85ad65881f62857fc70af7174a1184dccce32b"
 
-highcharts@6.0.7:
-  version "6.0.7"
-  resolved "https://registry.yarnpkg.com/highcharts/-/highcharts-6.0.7.tgz#fd5c4f24fdc61a04ae155a5b70830a96c8f70919"
+highcharts@6.2.0:
+  version "6.2.0"
+  resolved "https://registry.yarnpkg.com/highcharts/-/highcharts-6.2.0.tgz#2a6d04652eb43c66f462ca7e2d2808f1f2782b61"
 
 history@^2.1.2:
   version "2.1.2"
