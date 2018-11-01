@@ -9060,7 +9060,11 @@ redux-thunk-subscribe@1.0.3:
   version "1.0.3"
   resolved "https://registry.yarnpkg.com/redux-thunk-subscribe/-/redux-thunk-subscribe-1.0.3.tgz#2e00f82e71a35c07caaa7d206e3945d21e5929e6"
 
-redux-thunk@2.2.0, redux-thunk@^2.2.0:
+redux-thunk@2.3.0:
+  version "2.3.0"
+  resolved "https://registry.yarnpkg.com/redux-thunk/-/redux-thunk-2.3.0.tgz#51c2c19a185ed5187aaa9a2d08b666d0d6467622"
+
+redux-thunk@^2.2.0:
   version "2.2.0"
   resolved "https://registry.yarnpkg.com/redux-thunk/-/redux-thunk-2.2.0.tgz#e615a16e16b47a19a515766133d1e3e99b7852e5"
 
