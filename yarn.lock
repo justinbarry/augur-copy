@@ -1501,6 +1501,10 @@ bignumber.js@5.0.0:
   version "5.0.0"
   resolved "https://registry.yarnpkg.com/bignumber.js/-/bignumber.js-5.0.0.tgz#fbce63f09776b3000a83185badcde525daf34833"
 
+bignumber.js@6.0.0:
+  version "6.0.0"
+  resolved "https://registry.yarnpkg.com/bignumber.js/-/bignumber.js-6.0.0.tgz#bbfa047644609a5af093e9cbd83b0461fa3f6002"
+
 "bignumber.js@git+https://github.com/debris/bignumber.js.git#94d7146671b9719e00a09c29b01a691bc85048c2":
   version "2.0.7"
   resolved "git+https://github.com/debris/bignumber.js.git#94d7146671b9719e00a09c29b01a691bc85048c2"
@@ -9896,6 +9900,13 @@ speedomatic@2.1.2:
   resolved "https://registry.yarnpkg.com/speedomatic/-/speedomatic-2.1.2.tgz#0a7412e9d20040596661f5d1f1cb1212893604ed"
   dependencies:
     bignumber.js "2.3.0"
+    ethereumjs-abi "0.6.5"
+
+speedomatic@2.1.4:
+  version "2.1.4"
+  resolved "https://registry.yarnpkg.com/speedomatic/-/speedomatic-2.1.4.tgz#be3009a33ad9b4e480c7434127566f181005d87c"
+  dependencies:
+    bignumber.js "6.0.0"
     ethereumjs-abi "0.6.5"
 
 split2@^0.2.1:
