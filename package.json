@@ -130,7 +130,7 @@
     "normalize.css": "8.0.0",
     "null-loader": "0.1.1",
     "nyc": "13.1.0",
-    "onchange": "3.2.1",
+    "onchange": "5.0.2",
     "postcss-loader": "2.0.9",
     "proxyquire": "2.1.0",
     "redux-mock-store": "1.5.3",
