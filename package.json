@@ -144,7 +144,7 @@
     "stylelint-order": "0.4.3",
     "watchify": "3.11.0",
     "webpack": "3.10.0",
-    "webpack-dev-middleware": "2.0.3",
+    "webpack-dev-middleware": "3.4.0",
     "webpack-hot-middleware": "2.24.3",
     "webpack-merge": "4.1.4"
   }
