@@ -76,7 +76,7 @@
     "shelljs": "0.8.2",
     "shifty": "2.6.0",
     "speedomatic": "2.1.4",
-    "uport-connect": "1.0.0",
+    "uport-connect": "1.0.1",
     "zxcvbn": "4.4.2"
   },
   "devDependencies": {
