@@ -73,7 +73,7 @@
     "redux-undo": "0.6.1",
     "reselect": "4.0.0",
     "secure-random": "1.1.1",
-    "shelljs": "0.8.2",
+    "shelljs": "0.8.3",
     "shifty": "2.6.0",
     "speedomatic": "2.1.4",
     "uport-connect": "1.0.1",
