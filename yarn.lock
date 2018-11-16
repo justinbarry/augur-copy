@@ -11024,9 +11024,9 @@ shelljs@^0.8.0:
     interpret "^1.0.0"
     rechoir "^0.6.2"
 
-shifty@2.6.0:
-  version "2.6.0"
-  resolved "https://registry.yarnpkg.com/shifty/-/shifty-2.6.0.tgz#843f25e6523cd3663dc02b550bb7d96e469602b1"
+shifty@2.6.1:
+  version "2.6.1"
+  resolved "https://registry.yarnpkg.com/shifty/-/shifty-2.6.1.tgz#53fd6fb33ed6dc248996aa670c46cd967d3cc5f4"
 
 signal-exit@^3.0.0, signal-exit@^3.0.2:
   version "3.0.2"
