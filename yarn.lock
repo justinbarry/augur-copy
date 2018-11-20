@@ -12376,9 +12376,9 @@ upath@^1.0.5:
   version "1.1.0"
   resolved "https://registry.yarnpkg.com/upath/-/upath-1.1.0.tgz#35256597e46a581db4793d0ce47fa9aebfc9fabd"
 
-uport-connect@1.0.1:
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/uport-connect/-/uport-connect-1.0.1.tgz#bdbf9a7318787915edd859547e676ce92203a0bb"
+uport-connect@1.0.2:
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/uport-connect/-/uport-connect-1.0.2.tgz#e2a982342f1c09c24046d65cd24e3a27a20c3478"
   dependencies:
     did-jwt "^0.0.8"
     ethjs-abi "^0.2.1"
@@ -12389,14 +12389,14 @@ uport-connect@1.0.1:
     pubsub-js "^1.6.0"
     qs "^6.2.1"
     store "^2.0.12"
-    uport-credentials "^1.0.0-alpha-4"
+    uport-credentials "^1.0.2"
     uport-did-resolver "0.0.3"
     uport-lite "^1.0.2"
     uport-transports "^0.1.2"
 
-uport-credentials@^1.0.0-alpha-4:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/uport-credentials/-/uport-credentials-1.0.0.tgz#734f417ecc29815974077e0bb05fa27b3e9d8aa1"
+uport-credentials@^1.0.2:
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/uport-credentials/-/uport-credentials-1.0.2.tgz#2563bce1ee6ef54511b840726a9a037191b182cb"
   dependencies:
     did-jwt "^0.0.7"
     did-resolver "^0.0.4"
