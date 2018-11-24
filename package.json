@@ -68,7 +68,7 @@
     "react-tooltip": "3.9.0",
     "react-transition-group": "2.5.0",
     "redux": "4.0.1",
-    "redux-devtools-extension": "2.13.5",
+    "redux-devtools-extension": "2.13.6",
     "redux-thunk": "2.3.0",
     "redux-undo": "0.6.1",
     "reselect": "4.0.0",
