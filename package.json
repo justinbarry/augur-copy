@@ -138,7 +138,7 @@
     "shared-git-hooks": "1.2.1",
     "sinon": "7.1.1",
     "style-loader": "0.23.1",
-    "stylelint": "9.8.0",
+    "stylelint": "9.9.0",
     "stylelint-config-standard": "18.2.0",
     "stylelint-no-browser-hacks": "1.2.1",
     "stylelint-order": "2.0.0",
